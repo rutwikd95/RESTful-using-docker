@@ -1,0 +1,64 @@
+{
+    "games":[
+    {
+        "id" : "1",
+        "name" : "Call Of Duty World War",
+        "genre" : "First Person Shooter "
+    },
+
+    {
+        "id" : "2",
+        "name" : "Wolfenstein 2",
+        "genre" : "First Person Shooter "
+    },
+
+    {
+        "id" : "3",
+        "name" : "Middle Earth Shadow of War",
+        "genre" : "Third Person Action"
+    },
+
+    {
+        "id" : "4",
+        "name" : "GTA 5",
+        "genre" : " Open World "
+    },
+
+    {
+        "id" : "5",
+        "name" : "Hitman 2017",
+        "genre" : "Third Person Action "
+    },
+
+    {
+        "id" : "6",
+        "name" : "Fifa 2018",
+        "genre" : "Sports"
+    },
+
+    {
+        "id" : "7",
+        "name" : "Pro Evolution Soccer",
+        "genre" : "Sports "
+    },
+
+    {
+        "id" : "8",
+        "name" : "Need For Speed PayBack",
+        "genre" : "Racing "
+    },
+
+    {
+        "id" : "9",
+        "name" : "Battlefield",
+        "genre" : "First Person Shooter "
+    },
+
+    {
+        "id" : "10",
+        "name" : "Overwatch",
+        "genre" : "First Person Multiplayer "
+    }
+    
+    ]
+ }
